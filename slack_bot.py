@@ -1,4 +1,5 @@
 import os
+import requests
 from slack import WebClient
 from slack.errors import SlackApiError
 
